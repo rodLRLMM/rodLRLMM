@@ -16,6 +16,9 @@
 
 ### 📫 Let’s Connect
 - 💼 www.linkedin.com/in/rodrigo-lópez-ramírez-3a1986140
-- ✉️ Reach me at: roy9584@gmail.com  
+- ✉️ Reach me at: roy9584@gmail.com
+- ![GitHub](https://badgen.net/badge/icon/github?icon=github&label)
+- ![LinkedIn](https://badgen.net/badge/icon/linkedin?icon=linkedin&label)
+
 
 ✨ *"If it works, I’ll make sure it really works."*
