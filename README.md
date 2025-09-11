@@ -10,7 +10,14 @@
 ### 🧰 Toolbox
 - Manual Testing | Test Documentation  
 - Automation (Selenium, Postman, Pytest)  
-- Git & GitHub | Agile & Scrum  
+- Git & GitHub | Agile & Scrum
+- ![SQL](https://badgen.net/badge/DB/SQL/blue)
+- ![C#](https://badgen.net/badge/code/C%23/purple)
+- ![Python](https://badgen.net/badge/code/Python/yellow)
+- ![Jira](https://badgen.net/badge/tool/Jira/cyan)
+- ![Trello](https://badgen.net/badge/tool/Trello/green)
+- ![Postman](https://badgen.net/badge/API/Postman/orange)
+
 
 ---
 
