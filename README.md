@@ -15,7 +15,7 @@
 ---
 
 ### 📫 Let’s Connect
-- 💼 [LinkedIn](#www.linkedin.com/in/rodrigo-lópez-ramírez-3a1986140)  
+- 💼 [LinkedIn](www.linkedin.com/in/rodrigo-lópez-ramírez-3a1986140)  
 - ✉️ Reach me at: roy9584@gmail.com  
 
 ✨ *"If it works, I’ll make sure it really works."*
