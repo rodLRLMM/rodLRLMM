@@ -1,14 +1,23 @@
 ## Hi there, I'm Rodrigo 👋
-💻 **QA Engineer** | 🚀 Currently leveling up at the **TripleTen QA Bootcamp**  
+💻 Software Engineer in Training | 🛡️ QA Engineer & SDET Enthusiast
 
-🔍 I love testing, breaking things (on purpose), and making sure software is bulletproof.  
-🛠️ Exploring **manual & automated testing**, **bug tracking**, and **test frameworks**.  
-📈 Always curious, always learning, always improving.  
+### 🚀 About Me
+🎓 Currently in my 5th semester of Computer Systems Engineering.
 
----
+📜 Graduate of the TripleTen QA Bootcamp, where I mastered modern testing methodologies.
 
-### 🧰 Toolbox
-- Manual Testing | Test Documentation  
+🗣️ C2 Bilingual (English/Spanish) with experience as a Top Performer in high-stakes interpretation.
+
+
+🔍 I have a passion for ensuring software quality through a mix of manual precision and automated efficiency.
+
+### 🛠️ Technical Toolbox
+Testing: Manual & Automated Testing, Bug Reporting, Test Cases, Regression Testing.
+
+Tools: Jira, Postman, DevTools, SQL, Git.
+
+Code: Python (Automation scripts), JavaScript (Playwright/Cypress foundations).  
+
 - Automation (Selenium, Postman, Pytest)  
 - Git & GitHub | Agile & Scrum
 - ![SQL](https://badgen.net/badge/DB/SQL/blue)
