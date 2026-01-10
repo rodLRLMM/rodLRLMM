@@ -2,11 +2,11 @@
 💻 Software Engineer in Training | 🛡️ QA Engineer & SDET Enthusiast
 
 ### 🚀 About Me
-🎓 Currently in my 5th semester of Computer Systems Engineering.
+🎓 Currently in my 6th semester of Computer Systems Engineering.
 
 📜 Graduate of the TripleTen QA Bootcamp, where I mastered modern testing methodologies.
 
-🗣️ C2 Bilingual (English/Spanish) with experience as a Top Performer in high-stakes interpretation.
+🗣️ C2 Bilingual (English/Spanish).
 
 
 🔍 I have a passion for ensuring software quality through a mix of manual precision and automated efficiency.
@@ -26,6 +26,22 @@ Code: Python (Automation scripts), JavaScript (Playwright/Cypress foundations).
 - ![Jira](https://badgen.net/badge/tool/Jira/cyan)
 - ![Trello](https://badgen.net/badge/tool/Trello/green)
 - ![Postman](https://badgen.net/badge/API/Postman/orange)
+
+
+### 📂 Featured Projects
+TripleTen Capstone: Executed end-to-end testing for web applications, identifying critical bugs and documenting them in Jira.
+
+Personal Hobby Projects: 
+Developed autocenter.py to automate recurring mouse placements.
+Developed and deployed miboda-app. A full website to share my wedding pictures with friends and relatives.
+
+Academic Work: 
+UAIMaquinas, using Node.js, Express, Sequelize, and PostgreSQL to resolve the complexities of inventory management and dynamic hardware customization in high-performance e-commerce environments.
+
+### 📈 Statistics & Goals
+⚡ Top Performer mindset: Always hitting 100% on quality metrics.
+
+🌱 Currently learning: Advanced Test Automation & Cloud Infrastructure (AWS).
 
 
 ---
