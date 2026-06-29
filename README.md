@@ -1,8 +1,8 @@
 ## Hi there, I'm Rodrigo 👋
-💻 Software Engineer in Training | 🛡️ QA Engineer & SDET Enthusiast
+💻 Software Engineer | 🛡️ QA Engineer & SDET Enthusiast
 
 ### 🚀 About Me
-🎓 Currently in my 6th semester of Computer Systems Engineering.
+🎓 Currently in my 7th semester of Computer Systems Engineering.
 
 📜 Graduate of the TripleTen QA Bootcamp, where I mastered modern testing methodologies.
 
